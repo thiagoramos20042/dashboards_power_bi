@@ -2,9 +2,9 @@
 
 Coleção de materiais de um estudo de caso em Power BI, com template e relatórios exportados.
 
-**Análise de dados** · Dashboards e relatórios
+**Data Science** · Dashboards e relatórios
 
-[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
+[← Data Science, IA e Automações · Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
 
 ## Objetivo
 
